@@ -26,6 +26,7 @@ def main():
                 if monster['idx'] == idx:
                     monster['dungeon'] = dung_name
                     current_monsters.append(monster)
+
     if not current_monsters:
         print('Brak stworów :(')
         return
