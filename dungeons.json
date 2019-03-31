@@ -1,0 +1,1032 @@
+[
+  {
+    "dungeon": "Zbezczeszczone Katakumby",
+    "monsters": [
+      {
+        "name": "Zjawa",
+        "idx": 1,
+        "level": 10
+      },
+      {
+        "name": "Szkielet",
+        "idx": 2,
+        "level": 12
+      },
+      {
+        "name": "Obrzydliwy o\u017cywieniec",
+        "idx": 3,
+        "level": 14
+      },
+      {
+        "name": "Podst\u0119pny wampir",
+        "idx": 4,
+        "level": 16
+      },
+      {
+        "name": "Ghul nocny",
+        "idx": 5,
+        "level": 18
+      },
+      {
+        "name": "Banshee",
+        "idx": 6,
+        "level": 22
+      },
+      {
+        "name": "Szkielet-wojownik",
+        "idx": 7,
+        "level": 26
+      },
+      {
+        "name": "Szaman voodoo",
+        "idx": 8,
+        "level": 30
+      },
+      {
+        "name": "Mi\u0119sny golem",
+        "idx": 9,
+        "level": 40
+      },
+      {
+        "name": "Ksi\u0105\u017c\u0119 ciemno\u015bci",
+        "idx": 10,
+        "level": 50
+      }
+    ]
+  },
+  {
+    "dungeon": "Kopalnie Glorii",
+    "monsters": [
+      {
+        "name": "Wodny glompf",
+        "idx": 1,
+        "level": 20
+      },
+      {
+        "name": "Yeti",
+        "idx": 2,
+        "level": 24
+      },
+      {
+        "name": "Szkielet",
+        "idx": 3,
+        "level": 28
+      },
+      {
+        "name": "Ohydny gremlin",
+        "idx": 4,
+        "level": 34
+      },
+      {
+        "name": "Kamienny olbrzym",
+        "idx": 5,
+        "level": 38
+      },
+      {
+        "name": "\u017bywio\u0142ak ognia",
+        "idx": 6,
+        "level": 44
+      },
+      {
+        "name": "Kamienny troll",
+        "idx": 7,
+        "level": 48
+      },
+      {
+        "name": "Sukkub bezwstydny",
+        "idx": 8,
+        "level": 56
+      },
+      {
+        "name": "Odra\u017caj\u0105cy demon",
+        "idx": 9,
+        "level": 66
+      },
+      {
+        "name": "Piekielna bestia",
+        "idx": 10,
+        "level": 70
+      }
+    ]
+  },
+  {
+    "dungeon": "Ruiny Gnark",
+    "monsters": [
+      {
+        "name": "Szczur \u015bciekowy",
+        "idx": 1,
+        "level": 32
+      },
+      {
+        "name": "Nietoperz pylisty",
+        "idx": 2,
+        "level": 36
+      },
+      {
+        "name": "Okrutna tarantula",
+        "idx": 3,
+        "level": 42
+      },
+      {
+        "name": "R\u0105bni\u0119ty rabu\u015b",
+        "idx": 4,
+        "level": 46
+      },
+      {
+        "name": "Parszywy dra\u0144",
+        "idx": 5,
+        "level": 54
+      },
+      {
+        "name": "Pos\u0119pny wilk",
+        "idx": 6,
+        "level": 60
+      },
+      {
+        "name": "Rozb\u00f3jnik",
+        "idx": 7,
+        "level": 64
+      },
+      {
+        "name": "Poczwara",
+        "idx": 8,
+        "level": 76
+      },
+      {
+        "name": "Hiena cmentarna",
+        "idx": 9,
+        "level": 86
+      },
+      {
+        "name": "Herszt rabusi\u00f3w",
+        "idx": 10,
+        "level": 90
+      }
+    ]
+  },
+  {
+    "dungeon": "Grota Korsarzy",
+    "monsters": [
+      {
+        "name": "\u017bywio\u0142ak powietrza",
+        "idx": 1,
+        "level": 52
+      },
+      {
+        "name": "Czarnobrody",
+        "idx": 2,
+        "level": 58
+      },
+      {
+        "name": "R\u0105bni\u0119ty rabu\u015b",
+        "idx": 3,
+        "level": 62
+      },
+      {
+        "name": "Aligator cienisty",
+        "idx": 4,
+        "level": 68
+      },
+      {
+        "name": "Pirat John Pasat-Monsun",
+        "idx": 5,
+        "level": 74
+      },
+      {
+        "name": "Potwornie z\u0142owrogi zaj\u0105c",
+        "idx": 6,
+        "level": 82
+      },
+      {
+        "name": "Zawszony korsarz",
+        "idx": 7,
+        "level": 84
+      },
+      {
+        "name": "Pirat Krwawonos",
+        "idx": 8,
+        "level": 96
+      },
+      {
+        "name": "O\u015bmiornica",
+        "idx": 9,
+        "level": 102
+      },
+      {
+        "name": "Kapitan korsarzy",
+        "idx": 10,
+        "level": 110
+      }
+    ]
+  },
+  {
+    "dungeon": "O\u0142tarz Szmaragdowej \u0141uski",
+    "monsters": [
+      {
+        "name": "Kobra grzechocz\u0105ca",
+        "idx": 1,
+        "level": 72
+      },
+      {
+        "name": "Jaszczurzy siepacz",
+        "idx": 2,
+        "level": 78
+      },
+      {
+        "name": "Raptor rycz\u0105cy",
+        "idx": 3,
+        "level": 80
+      },
+      {
+        "name": "Jaszczur z bagien",
+        "idx": 4,
+        "level": 88
+      },
+      {
+        "name": "Zielony T-Rex",
+        "idx": 5,
+        "level": 94
+      },
+      {
+        "name": "Jaszczurzy rozb\u00f3jnik",
+        "idx": 6,
+        "level": 100
+      },
+      {
+        "name": "Bagienny dragor",
+        "idx": 7,
+        "level": 108
+      },
+      {
+        "name": "Meduza z moczar",
+        "idx": 8,
+        "level": 114
+      },
+      {
+        "name": "Jadowity smok",
+        "idx": 9,
+        "level": 122
+      },
+      {
+        "name": "Kr\u00f3l-jaszczur",
+        "idx": 10,
+        "level": 130
+      }
+    ]
+  },
+  {
+    "dungeon": "Toksyczne Drzewo",
+    "monsters": [
+      {
+        "name": "Ska\u017cone drzewo",
+        "idx": 1,
+        "level": 92
+      },
+      {
+        "name": "Ohydny gremlin",
+        "idx": 2,
+        "level": 98
+      },
+      {
+        "name": "W\u015bciek\u0142y wilk",
+        "idx": 3,
+        "level": 104
+      },
+      {
+        "name": "O\u015bliz\u0142y blob",
+        "idx": 4,
+        "level": 106
+      },
+      {
+        "name": "Zgni\u0142ozielony gremlin",
+        "idx": 5,
+        "level": 118
+      },
+      {
+        "name": "W\u015bciek\u0142y nied\u017awied\u017a brunatny",
+        "idx": 6,
+        "level": 124
+      },
+      {
+        "name": "Chciwy gremlin",
+        "idx": 7,
+        "level": 128
+      },
+      {
+        "name": "Rosiczka bagienna",
+        "idx": 8,
+        "level": 136
+      },
+      {
+        "name": "Okrutny gremlin",
+        "idx": 9,
+        "level": 144
+      },
+      {
+        "name": "Okrutnie jadowity gremlin",
+        "idx": 10,
+        "level": 150
+      }
+    ]
+  },
+  {
+    "dungeon": "Strumie\u0144 Lawy",
+    "monsters": [
+      {
+        "name": "Ognisty skorpion",
+        "idx": 1,
+        "level": 112
+      },
+      {
+        "name": "Bazyliszek ognisty",
+        "idx": 2,
+        "level": 116
+      },
+      {
+        "name": "Blob wulkaniczny",
+        "idx": 3,
+        "level": 120
+      },
+      {
+        "name": "Wulkaniczny olbrzym",
+        "idx": 4,
+        "level": 126
+      },
+      {
+        "name": "Smok ciemno\u015bci",
+        "idx": 5,
+        "level": 134
+      },
+      {
+        "name": "Piekielny cyklop",
+        "idx": 6,
+        "level": 138
+      },
+      {
+        "name": "\u017bywio\u0142ak ognia",
+        "idx": 7,
+        "level": 142
+      },
+      {
+        "name": "Wulkaniczny olbrzym",
+        "idx": 8,
+        "level": 146
+      },
+      {
+        "name": "Olbrzymi smok",
+        "idx": 9,
+        "level": 148
+      },
+      {
+        "name": "Duch wulkanu",
+        "idx": 10,
+        "level": 170
+      }
+    ]
+  },
+  {
+    "dungeon": "\u015awi\u0105tynia Zimnej Krwi",
+    "monsters": [
+      {
+        "name": "Yeti",
+        "idx": 1,
+        "level": 132
+      },
+      {
+        "name": "Czarny upi\u00f3r",
+        "idx": 2,
+        "level": 140
+      },
+      {
+        "name": "Dragor mrozu",
+        "idx": 3,
+        "level": 154
+      },
+      {
+        "name": "Upad\u0142y mnich",
+        "idx": 4,
+        "level": 158
+      },
+      {
+        "name": "Piekielny obcy",
+        "idx": 5,
+        "level": 164
+      },
+      {
+        "name": "Istota pozaziemska",
+        "idx": 6,
+        "level": 168
+      },
+      {
+        "name": "Smok ob\u0142\u0119du",
+        "idx": 7,
+        "level": 172
+      },
+      {
+        "name": "Mroczny obcy",
+        "idx": 8,
+        "level": 180
+      },
+      {
+        "name": "Przybysz z kosmosu",
+        "idx": 9,
+        "level": 185
+      },
+      {
+        "name": "Maszyna do zabijania",
+        "idx": 10,
+        "level": 200
+      }
+    ]
+  },
+  {
+    "dungeon": "Piramida Szale\u0144stwa",
+    "monsters": [
+      {
+        "name": "Jaskiniowy cyklop",
+        "idx": 1,
+        "level": 152
+      },
+      {
+        "name": "Burza piaskowa",
+        "idx": 2,
+        "level": 156
+      },
+      {
+        "name": "Piekielny obcy",
+        "idx": 3,
+        "level": 160
+      },
+      {
+        "name": "Wielka stopa",
+        "idx": 4,
+        "level": 162
+      },
+      {
+        "name": "Zjawa",
+        "idx": 5,
+        "level": 166
+      },
+      {
+        "name": "Don Kapiszi",
+        "idx": 6,
+        "level": 174
+      },
+      {
+        "name": "Szkaradny demon",
+        "idx": 7,
+        "level": 176
+      },
+      {
+        "name": "Potwornie r\u00f3\u017cowy zaj\u0105czek",
+        "idx": 8,
+        "level": 178
+      },
+      {
+        "name": "Banshee",
+        "idx": 9,
+        "level": 190
+      },
+      {
+        "name": "Sobowt\u00f3r",
+        "idx": 10,
+        "level": 0
+      }
+    ]
+  },
+  {
+    "dungeon": "Twierdza Pos\u0119pnego Czerepu",
+    "monsters": [
+      {
+        "name": "Je\u017adziec mroku",
+        "idx": 1,
+        "level": 205
+      },
+      {
+        "name": "Szkielet-\u017co\u0142nierz",
+        "idx": 2,
+        "level": 210
+      },
+      {
+        "name": "Wojownik Pos\u0119pnego Czerepu",
+        "idx": 3,
+        "level": 215
+      },
+      {
+        "name": "Nocny troll",
+        "idx": 4,
+        "level": 220
+      },
+      {
+        "name": "Pantera",
+        "idx": 5,
+        "level": 225
+      },
+      {
+        "name": "Ludojad",
+        "idx": 6,
+        "level": 230
+      },
+      {
+        "name": "Bagienny dragor",
+        "idx": 7,
+        "level": 235
+      },
+      {
+        "name": "Wojownik Pos\u0119pnego Czerepu",
+        "idx": 8,
+        "level": 240
+      },
+      {
+        "name": "Smok ciemno\u015bci",
+        "idx": 9,
+        "level": 245
+      },
+      {
+        "name": "Rycerz Pos\u0119pnego Czerepu",
+        "idx": 10,
+        "level": 250
+      }
+    ]
+  },
+  {
+    "dungeon": "Cyrk grozy",
+    "monsters": [
+      {
+        "name": "Klaun z m\u0142ocikiem",
+        "idx": 1,
+        "level": 255
+      },
+      {
+        "name": "Ociemnia\u0142y no\u017cownik",
+        "idx": 2,
+        "level": 260
+      },
+      {
+        "name": "Kar\u0142owaty gnom",
+        "idx": 3,
+        "level": 265
+      },
+      {
+        "name": "Dama z brod\u0105",
+        "idx": 4,
+        "level": 270
+      },
+      {
+        "name": "Stukni\u0119ty \u017congler",
+        "idx": 5,
+        "level": 275
+      },
+      {
+        "name": "Syjamskie bli\u017ani\u0119ta",
+        "idx": 6,
+        "level": 280
+      },
+      {
+        "name": "\u017bartowni\u015b Bronek",
+        "idx": 7,
+        "level": 285
+      },
+      {
+        "name": "Cz\u0142owiek-guma",
+        "idx": 8,
+        "level": 290
+      },
+      {
+        "name": "Madame Mystique",
+        "idx": 9,
+        "level": 295
+      },
+      {
+        "name": "Morderczy klaun Adolfik",
+        "idx": 10,
+        "level": 300
+      }
+    ]
+  },
+  {
+    "dungeon": "Piek\u0142o",
+    "monsters": [
+      {
+        "name": "Pot\u0119piona dusza",
+        "idx": 1,
+        "level": 305
+      },
+      {
+        "name": "W\u015bciek\u0142a dusza",
+        "idx": 2,
+        "level": 310
+      },
+      {
+        "name": "Stara dusza",
+        "idx": 3,
+        "level": 315
+      },
+      {
+        "name": "M\u0119czydusza",
+        "idx": 4,
+        "level": 320
+      },
+      {
+        "name": "Zlepek pot\u0119pionych dusz",
+        "idx": 5,
+        "level": 325
+      },
+      {
+        "name": "Biczownik",
+        "idx": 6,
+        "level": 330
+      },
+      {
+        "name": "Piekielny ogar",
+        "idx": 7,
+        "level": 335
+      },
+      {
+        "name": "Orszak tyran\u00f3w",
+        "idx": 8,
+        "level": 340
+      },
+      {
+        "name": "Adwokat diab\u0142a",
+        "idx": 9,
+        "level": 345
+      },
+      {
+        "name": "BelzeBoss",
+        "idx": 10,
+        "level": 350
+      }
+    ]
+  },
+  {
+    "dungeon": "13. pi\u0119tro",
+    "monsters": [
+      {
+        "name": "Licho Piekielne",
+        "idx": 1,
+        "level": 355
+      },
+      {
+        "name": "Wr\u00f3\u017cek Henryk",
+        "idx": 2,
+        "level": 360
+      },
+      {
+        "name": "Dymik Majciarz",
+        "idx": 3,
+        "level": 365
+      },
+      {
+        "name": "Ko\u0142ek van Hellsing",
+        "idx": 4,
+        "level": 370
+      },
+      {
+        "name": "KOmendant KOma",
+        "idx": 5,
+        "level": 375
+      },
+      {
+        "name": "Pod\u0142y Liczykrupa",
+        "idx": 6,
+        "level": 380
+      },
+      {
+        "name": "Robert Marketingowiec",
+        "idx": 7,
+        "level": 385
+      },
+      {
+        "name": "Wac\u0142aw Podwykonawca",
+        "idx": 8,
+        "level": 390
+      },
+      {
+        "name": "Motu z pobijakiem",
+        "idx": 9,
+        "level": 395
+      },
+      {
+        "name": "W\u0142odzimierz M\u0142otow\u0142adny",
+        "idx": 10,
+        "level": 400
+      }
+    ]
+  },
+  {
+    "dungeon": "Easteros",
+    "monsters": [
+      {
+        "name": "Robert Po Pijawa",
+        "idx": 1,
+        "level": 310
+      },
+      {
+        "name": "Ma\u0144kut Lennister",
+        "idx": 2,
+        "level": 320
+      },
+      {
+        "name": "Sutener Petyr",
+        "idx": 3,
+        "level": 330
+      },
+      {
+        "name": "Holunder",
+        "idx": 4,
+        "level": 340
+      },
+      {
+        "name": "Drogo Gro\u017any",
+        "idx": 5,
+        "level": 350
+      },
+      {
+        "name": "Ruda \u015alamazarnica",
+        "idx": 6,
+        "level": 360
+      },
+      {
+        "name": "Kr\u00f3lowa Matka",
+        "idx": 7,
+        "level": 370
+      },
+      {
+        "name": "Pudel Miniatura",
+        "idx": 8,
+        "level": 380
+      },
+      {
+        "name": "G\u00f3ro\u0142az",
+        "idx": 9,
+        "level": 390
+      },
+      {
+        "name": "Bachor-despota Joffrey",
+        "idx": 10,
+        "level": 400
+      },
+      {
+        "name": "Zimny Dra\u0144",
+        "idx": 11,
+        "level": 410
+      },
+      {
+        "name": "Brygitte",
+        "idx": 12,
+        "level": 420
+      },
+      {
+        "name": "Ba\u0142wan i Wilk Cienia",
+        "idx": 13,
+        "level": 430
+      },
+      {
+        "name": "Czerwona Demonica",
+        "idx": 14,
+        "level": 440
+      },
+      {
+        "name": "Ch\u0142opi\u0119cy Brienne",
+        "idx": 15,
+        "level": 450
+      },
+      {
+        "name": "Wzgardliwy Ramsay",
+        "idx": 16,
+        "level": 460
+      },
+      {
+        "name": "Bezlicy",
+        "idx": 17,
+        "level": 470
+      },
+      {
+        "name": "Z\u0142owrogi Gnom",
+        "idx": 18,
+        "level": 480
+      },
+      {
+        "name": "Obro\u0144ca",
+        "idx": 19,
+        "level": 490
+      },
+      {
+        "name": "Niepalna",
+        "idx": 20,
+        "level": 500
+      }
+    ]
+  },
+  {
+    "dungeon": "U\u015bwi\u0119cona tradycj\u0105 Szko\u0142a Magii",
+    "monsters": [
+      {
+        "name": "Kapelusz Gadki",
+        "idx": 1,
+        "level": 250
+      },
+      {
+        "name": "Kwach Agrus",
+        "idx": 2,
+        "level": 257
+      },
+      {
+        "name": "Puszu\u015b",
+        "idx": 3,
+        "level": 265
+      },
+      {
+        "name": "Arapedagog",
+        "idx": 4,
+        "level": 272
+      },
+      {
+        "name": "Fa\u0142szywiusz Loczard",
+        "idx": 5,
+        "level": 280
+      },
+      {
+        "name": "Bazyl Liszka",
+        "idx": 6,
+        "level": 287
+      },
+      {
+        "name": "Demoralizator",
+        "idx": 7,
+        "level": 295
+      },
+      {
+        "name": "Stra\u017cnik Z\u0142otego Jaja",
+        "idx": 8,
+        "level": 302
+      },
+      {
+        "name": "Hurrdurrgrid",
+        "idx": 9,
+        "level": 310
+      },
+      {
+        "name": "Psyriusz Bork",
+        "idx": 10,
+        "level": 317
+      },
+      {
+        "name": "Suworyc Snap",
+        "idx": 11,
+        "level": 325
+      },
+      {
+        "name": "Dw\u00f3jka wybra\u0144c\u00f3w (no i Ron)",
+        "idx": 12,
+        "level": 332
+      },
+      {
+        "name": "Dyndendor",
+        "idx": 13,
+        "level": 340
+      },
+      {
+        "name": "\u015alizgogon",
+        "idx": 14,
+        "level": 347
+      },
+      {
+        "name": "Diabolores",
+        "idx": 15,
+        "level": 355
+      },
+      {
+        "name": "Irracjonalnie Irytuj\u0105ce Infernusy",
+        "idx": 16,
+        "level": 362
+      },
+      {
+        "name": "Bestyjka Bella",
+        "idx": 17,
+        "level": 370
+      },
+      {
+        "name": "Lucjusz Czystokrwisty",
+        "idx": 18,
+        "level": 377
+      },
+      {
+        "name": "Przyjemniacz\u0105teczni\u0105tko",
+        "idx": 19,
+        "level": 385
+      },
+      {
+        "name": "Sami Wiecie Kto...",
+        "idx": 20,
+        "level": 400
+      }
+    ]
+  },
+  {
+    "dungeon": "Hemorridor",
+    "monsters": [
+      {
+        "name": "Orc on Warg",
+        "idx": 1,
+        "level": 200
+      },
+      {
+        "name": "Trollowe trio",
+        "idx": 2,
+        "level": 213
+      },
+      {
+        "name": "Kr\u00f3l",
+        "idx": 3,
+        "level": 228
+      },
+      {
+        "name": "Smollum",
+        "idx": 4,
+        "level": 242
+      },
+      {
+        "name": "Znowu paj\u0105ki",
+        "idx": 5,
+        "level": 258
+      },
+      {
+        "name": "Boss ork\u00f3w",
+        "idx": 6,
+        "level": 273
+      },
+      {
+        "name": "Bezog",
+        "idx": 7,
+        "level": 289
+      },
+      {
+        "name": "Smoulder",
+        "idx": 8,
+        "level": 305
+      },
+      {
+        "name": "Nazguls...Nazgulses?",
+        "idx": 9,
+        "level": 319
+      },
+      {
+        "name": "Potw\u00f3r w jeziorze",
+        "idx": 10,
+        "level": 333
+      },
+      {
+        "name": "Valaraukar",
+        "idx": 11,
+        "level": 348
+      },
+      {
+        "name": "Urcsi the Uruk",
+        "idx": 12,
+        "level": 362
+      },
+      {
+        "name": "Prompter Splittongue",
+        "idx": 13,
+        "level": 377
+      },
+      {
+        "name": "Samowar the Pale",
+        "idx": 14,
+        "level": 392
+      },
+      {
+        "name": "Oliphaunt Tamer",
+        "idx": 15,
+        "level": 408
+      },
+      {
+        "name": "Nieumar\u0142a armia",
+        "idx": 16,
+        "level": 424
+      },
+      {
+        "name": "Shelantula",
+        "idx": 17,
+        "level": 440
+      },
+      {
+        "name": "W\u0142adca dziewi\u0105tek",
+        "idx": 18,
+        "level": 456
+      },
+      {
+        "name": "Mauron's Maw",
+        "idx": 19,
+        "level": 474
+      },
+      {
+        "name": "The Necromancer",
+        "idx": 20,
+        "level": 500
+      }
+    ]
+  }
+]
