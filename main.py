@@ -3,8 +3,6 @@ import json
 import argparse
 import dung_parser
 
-# def compare_dungs_by_monster_level(d1, d2):
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("levels", help="Dungeons list", nargs="+")
@@ -33,7 +31,6 @@ def main():
         return
 
     current_monsters = sorted(current_monsters, key=lambda m: m['level'])
-
     max_dung_name = len(max(current_monsters, key=lambda m: len(m['dungeon']))['dungeon'])
     max_monster_name = len(max(current_monsters, key=lambda m: len(m['name']))['name'])
 
