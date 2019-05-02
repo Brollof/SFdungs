@@ -5,9 +5,11 @@ import dung_parser
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("levels", help="Dungeons list", nargs="+")
+    parser.add_argument("completed_cnt", type=int, help="Number of already completed dungeons")
+    parser.add_argument("levels", type=int, help="Dungeons list", nargs="+")
     args = parser.parse_args()
     levels = args.levels
+    offset = args.completed_cnt
 
     if not os.path.exists('dungeons.json'):
         print('Parsing website...')
@@ -18,14 +20,13 @@ def main():
 
     current_monsters = []
     for i in range(len(levels)):
-        if levels[i].isdigit():
-            idx = int(levels[i])
-            dung_name = data[i]['dungeon']
-            monsters = data[i]['monsters']
-            for monster in monsters:
-                if monster['idx'] == idx:
-                    monster['dungeon'] = dung_name
-                    current_monsters.append(monster)
+        idx = i + offset
+        dung_name = data[idx]['dungeon']
+        monsters = data[idx]['monsters']
+        for monster in monsters:
+            if monster['idx'] == levels[i]:
+                monster['dungeon'] = dung_name
+                current_monsters.append(monster)
 
     if not current_monsters:
         print('Brak stworów :(')
